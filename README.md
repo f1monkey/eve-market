@@ -1,17 +1,6 @@
-# eve-microservice-template
+# eve-market
 
-Template repository for a microservice
-
-
-### Usage
-
-[Create repository from template](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)
-
-# Docs template
-
-# Microservice name
-
-Description
+EVE market microservice
 
 ## Docs
 
