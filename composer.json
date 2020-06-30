@@ -1,6 +1,6 @@
 {
-    "name": "f1monkey/eve-microservice-template",
-    "description": "EVE microservice template repository",
+    "name": "f1monkey/eve-market",
+    "description": "EVE market microservice",
     "type": "project",
     "license": "MIT",
     "require": {

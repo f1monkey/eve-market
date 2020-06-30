@@ -19,7 +19,7 @@ services:
             local:
             f1monkey:
                 aliases:
-                    - f1monkey-CHANGE_ME
+                    - f1monkey-eve-market
     postgres:
         image: postgres:12.3-alpine
         environment:
